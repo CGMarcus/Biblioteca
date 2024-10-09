@@ -1,0 +1,6 @@
+.vscode
+bin
+lib
+OpenJDK-21\lib
+OpenJDK-21\jmods
+OpenJDK-21\legal\jdk.net
